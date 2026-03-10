@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/Nisha640/movie-app/static/css/main.72d0da58.css",
-    "main.js": "/Nisha640/movie-app/static/js/main.779e44df.js",
-    "static/js/453.2e063372.chunk.js": "/Nisha640/movie-app/static/js/453.2e063372.chunk.js",
-    "static/media/image.png": "/Nisha640/movie-app/static/media/image.7ed9395e825b0e86c492.png",
-    "index.html": "/Nisha640/movie-app/index.html",
-    "main.72d0da58.css.map": "/Nisha640/movie-app/static/css/main.72d0da58.css.map",
-    "main.779e44df.js.map": "/Nisha640/movie-app/static/js/main.779e44df.js.map",
-    "453.2e063372.chunk.js.map": "/Nisha640/movie-app/static/js/453.2e063372.chunk.js.map"
+    "main.css": "/movie-app/static/css/main.72d0da58.css",
+    "main.js": "/movie-app/static/js/main.bd8f7fd1.js",
+    "static/js/453.2e063372.chunk.js": "/movie-app/static/js/453.2e063372.chunk.js",
+    "static/media/image.png": "/movie-app/static/media/image.7ed9395e825b0e86c492.png",
+    "index.html": "/movie-app/index.html",
+    "main.72d0da58.css.map": "/movie-app/static/css/main.72d0da58.css.map",
+    "main.bd8f7fd1.js.map": "/movie-app/static/js/main.bd8f7fd1.js.map",
+    "453.2e063372.chunk.js.map": "/movie-app/static/js/453.2e063372.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.72d0da58.css",
-    "static/js/main.779e44df.js"
+    "static/js/main.bd8f7fd1.js"
   ]
 }
